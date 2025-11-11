@@ -1,0 +1,20 @@
+# Implementation Notes
+*.txt
+
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# Vim undo files
+*.un~
+
+# Compiled files
+*.o
+*.out
+*.exe
+a.out
+
+# Other common temp files
+*.tmp
+.DS_Store
